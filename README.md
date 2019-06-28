@@ -1,5 +1,8 @@
-Hi, Welcome to the wonderful world of command line parsing!
-===========================================================
+# Command Line Parsers
+
+*<https://github.com/timdetering/CommandLineParsers>*
+
+**Hi, Welcome to the wonderful world of command line parsing!**
 
 Files in this folder:
 --------------------
@@ -27,7 +30,7 @@ The VB6/Script versions are similar, and use a schema string:
 
 **C#**
 The C# version is more powerful, and you first declare each parameter/option on a separate call.
- 
+
     using Parsing;
     ....
  
